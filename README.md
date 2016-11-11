@@ -281,10 +281,22 @@ public class ExceptionLearning
 ให้เปลี่ยนชนิดของการ throw exception ในบรรทัดที่ 34 เป็น exception ดังต่อไปนี้ แล้วอธิบายผลที่ได้
 ```
 1.	DivideByZeroException
+```
+![](https://github.com/HoneyApinya/LAB-08/blob/master/8.4.png?raw=true)
+```
 2.	NullReferenceException
+```
+![](https://github.com/HoneyApinya/LAB-08/blob/master/8.5.png?raw=true)
+```
 3.	FileNotFoundException
+```
+![](https://github.com/HoneyApinya/LAB-08/blob/master/8.6.png?raw=true)
+```
 4.	FormatException
 ```
+![](https://github.com/HoneyApinya/LAB-08/blob/master/8.7.png?raw=true)
+
+
 ```csharp
 using System;
 using System.IO;
